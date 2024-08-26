@@ -1,0 +1,32 @@
+[
+    {
+        "brand": "Toyota",
+        "model": "Corolla",
+        "color": "Red"
+    },
+    {
+        "brand": "Honda",
+        "model": "Civic",
+        "color": "Blue"
+    },
+    {
+        "brand": "Ford",
+        "model": "Mustang",
+        "color": "Black"
+    },
+    {
+        "brand": "Chevrolet",
+        "model": "Camaro",
+        "color": "Yellow"
+    },
+    {
+        "brand": "Tesla",
+        "model": "Model 3",
+        "color": "Blue"
+    },
+    {
+        "brand": "Mazda",
+        "model": "3",
+        "color": "Pink"
+    }
+]
